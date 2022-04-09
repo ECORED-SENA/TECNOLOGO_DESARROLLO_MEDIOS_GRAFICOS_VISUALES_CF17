@@ -19,7 +19,7 @@
           .col-auto.mb-4.mb-md-0
             img.px-md-3(src='@/assets/curso/tema1/img2.svg', alt='Imagen decorativa')
           .col-md-9
-            p.mb-0 Los programas de pre vuelo permiten controlar que el documento está completamente listo para producción y suele pedirse una prueba análoga o digital, antes de proceder el tiraje de impresión, siendo un procedimiento muchas veces costoso, pero justificado en ciertos casos.
+            p.mb-0 Los programas de prevuelo permiten controlar que el documento está completamente listo para producción y suele pedirse una prueba análoga o digital, antes de proceder el tiraje de impresión, siendo un procedimiento muchas veces costoso, pero justificado en ciertos casos.
 
 
 
@@ -62,7 +62,7 @@
                   | Luego de signos de puntuación como los puntos seguidos o apartes, al inicio de una oración, cuando se cierran signos de interrogación o exclamación o después de puntos suspensivos.
                 li
                   i.lista-ul__vineta
-                  | No se utilizarán en cargos como juez o directos, ni tampoco usar mayúsculas sostenidas, ya que se podrían mal interpretar.
+                  | No se utilizarán en cargos como juez o directos, ni tampoco usar mayúsculas sostenidas, ya que se podrían malinterpretar.
       .col-sm-6.col-xl-3.mb-4
         .tarjeta.tarjeta-flip.bg-naranja-gradiente(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -198,17 +198,17 @@
               p.mb-0 Forma incorrecta: <span class='text-danger text-bold'>FI</span>
               p.mb-1 Forma correcta: <span class='text-success text-bold'>FC</span>
               p.mb-0 <span class='text-danger text-bold'>FI:</span> De acuerdo
-              p.mb-1 <span class='text-success text-bold'>FC:</span> De acuerdo CON
+              p.mb-1 <span class='text-success text-bold'>FC:</span> De acuerdo <b>con</b>
               p.mb-0 <span class='text-danger text-bold'>FI:</span> En base a
-              p.mb-1 <span class='text-success text-bold'>FC:</span> CON base EN
+              p.mb-1 <span class='text-success text-bold'>FC:</span> <b>Con</b> base <b>en</b>
               p.mb-0 <span class='text-danger text-bold'>FI:</span> En relación a
-              p.mb-1 <span class='text-success text-bold'>FC:</span> En relación CON
+              p.mb-1 <span class='text-success text-bold'>FC:</span> En relación <b>con</b>
               p.mb-0 <span class='text-danger text-bold'>FI:</span> Por el contrario
-              p.mb-1 <span class='text-success text-bold'>FC:</span> Por LO contrario
+              p.mb-1 <span class='text-success text-bold'>FC:</span> Por <b>lo</b> contrario
               p.mb-0 <span class='text-danger text-bold'>FI:</span> Bajo esa base
-              p.mb-1 <span class='text-success text-bold'>FC:</span> SOBRE esa base
-              p.mb-0 <span class='text-danger text-bold'>FI:</span> Bajos ese punto de vista
-              p.mb-1 <span class='text-success text-bold'>FC:</span> DESDE ese punto de vista
+              p.mb-1 <span class='text-success text-bold'>FC:</span> <b>Sobre</b> esa base
+              p.mb-0 <span class='text-danger text-bold'>FI:</span> Bajo ese punto de vista
+              p.mb-1 <span class='text-success text-bold'>FC:</span> <b>Desde</b> ese punto de vista
       .col-sm-6.col-xl-3.mb-4
         .tarjeta.tarjeta-flip.bg-naranja-gradiente
           .tarjeta-flip__contenedor
@@ -226,7 +226,7 @@
               h4.text-center Los anglicismos
             .tarjeta-flip__contenido.p-4
               h5.text-center Los anglicismos
-              p.mb-0 Si se está escribiendo en español y se encuentra un significado de la palabra en ingles, es mejor no utilizar anglicismos, ya que permite darles sentido y fuerza a las frases y siendo neutral en la escritura.
+              p.mb-0 Si se está escribiendo en español y se encuentra un significado de la palabra en inglés, es mejor no utilizar anglicismos, ya que permite darles sentido y fuerza a las frases y siendo neutral en la escritura.
 
 
       .bg-acento-botones.bg-block.position-relative.my-4
@@ -300,11 +300,11 @@
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
         LineaTiempoD.color-acento-botones
           p.text-small(numero="1" titulo="Selección de tipo de letra") Las más interesantes pueden llamar más la atención, si se utilizan correctamente, permitirá una mejor legibilidad y permitirá al lector más permanencia.
-          p.text-small(numero="2" titulo="Tamaño") Es una obviedad, pero mientras más grande es el tipo de letra, más atractivo será. Este vendrá acuerdo con el orden de importancia en la lectura.
+          p.text-small(numero="2" titulo="Tamaño") Es una obviedad, pero mientras más grande es el tipo de letra, más atractivo será. Este vendrá de acuerdo con el orden de importancia en la lectura.
           p.text-small(numero="3" titulo="Grosor") El grosor de las letras puede hacer que el texto se vea más grande o más pequeña, esto servirá para hacer más compactos o grandes los textos.
           p.text-small(numero="4" titulo="Letras mayúsculas y minúsculas") Se debe tener cuidado con el uso, las letras mayúsculas parecerán más grandes y vanguardistas, mientras que las letras minúsculas se verán más pequeñas y a menudo, pasarán sin ser vistas.
           p.text-small(numero="5" titulo="Negritas") Las letras en negrita son un buen punto de énfasis, funcionan muy bien en el nivel terciario.
-          p.text-small(numero="6" titulo="Cursivas") Las letras cursiva destacan una palabra o frase en una forma menos marcada y más sutil que las negritas, su uso es similar a las negritas y se usan más a nivel terciario.
+          p.text-small(numero="6" titulo="Cursivas") Las letras cursivas destacan una palabra o frase en una forma menos marcada y más sutil que las negritas, su uso es similar a las negritas y se usan más a nivel terciario.
           p.text-small(numero="7" titulo="Orientación") Todo texto que esté en otra orientación diferente al horizontal tiende a ser un punto de atención, puede funcionar en palabras de primer nivel.
           p.text-small(numero="8" titulo="Color") La adición de color a las letras normalmente genera un interés inmediato, este efecto puede funcionar en cualquier nivel, pero debe ser bien trabajado, para no crear problemas o confusiones.
 
@@ -329,7 +329,7 @@
             figure
               img(src='@/assets/curso/tema1/img10.jpeg', alt='Imagen decorativa')
 
-        p El sangrado es un margen de unos milímetros que se debe añadir alrededor del arte, como un recuadro, estas serán de unos 3mm a cada lado; se encuentra también una zona llamada “Zona de Seguridad” que como su nombre lo indica, será una zona donde no se tendrán elementos por fuera de esta zona, ya que será un espacio donde se harán los cortes y dado un error de cálculo, la zona de seguridad permitirá tener el contenido intacto.
+        p El sangrado es un margen de unos milímetros que se debe añadir alrededor del arte, como un recuadro, estas serán de unos 3 mm a cada lado; se encuentra también una zona llamada “Zona de Seguridad” que como su nombre lo indica, será una zona donde no se tendrán elementos por fuera de esta zona, ya que será un espacio donde se harán los cortes y dado un error de cálculo, la zona de seguridad permitirá tener el contenido intacto.
 
       //- .tarjeta debe ir acompañado de una de una de estas clases =>
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -340,7 +340,7 @@
             figure
               img(src='@/assets/curso/tema1/img11.jpeg', alt='Imagen decorativa')
 
-        p ¿Como ser más preciso al momento de medir la distancia de las guías? Gracias a los programas de diseño y diagramación, es posible insertar guías más exactas que indicarán donde hacer los cortes con mayor precisión, estas guías de registro no trabajan como las de sangrado, sino que trabajan como complemento para las nuevas tecnologías.
+        p ¿Cómo ser más preciso al momento de medir la distancia de las guías? Gracias a los programas de diseño y diagramación, es posible insertar guías más exactas que indicarán donde hacer los cortes con mayor precisión, estas guías de registro no trabajan como las de sangrado, sino que trabajan como complemento para las nuevas tecnologías.
 
     Separador
 
@@ -361,7 +361,7 @@
             .tarjeta-flip__contenido.p-4
               h5 Sobreimpresión
               p Se denomina así a la impresión de un objeto que está en primer plano sobre otro objeto que está en un segundo plano; es decir, hacer una impresión de tinta, sobre otra.
-              p.mt-2 En procesos como <i>offset</i>, dadas que sus tinturas son transparentes, las tintas tienden a combinarse y quizá perder su calidad, pero es proceso como la flexografía, donde sus tintas son “cubrientes” un color se posa sobre el otro y no existe mezcla.
+              p.mt-2 En procesos como <i>offset</i>, dadas que sus tinturas son transparentes, las tintas tienden a combinarse y quizá perder su calidad, pero es un proceso como la flexografía, donde sus tintas son “cubrientes” un color se posa sobre el otro y no existe mezcla.
       .col-sm-6.col-xl-4.mb-4
         .tarjeta.tarjeta-flip.bg-acento-botones.text-center(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -371,7 +371,7 @@
               h4 <em>Trapping</em>
             .tarjeta-flip__contenido.p-4
               h5 <em>Trapping</em>
-              p También llamado reventado, se entiende como la superposición de tintas colindantes para evitar errores de registro, lo más común es reventar el color más claro sobre el más oscuro; el tamaño del <em>trapping</em> dependerá de los materiales y las máquinas de impresión, uno de los grandes inconvenientes de esta técnica es que la medida del no siempre es la misma, y recae en errores al momento de intentar copiar la acción.
+              p También llamado reventado, se entiende como la superposición de tintas colindantes para evitar errores de registro, lo más común es reventar el color más claro sobre el más oscuro; el tamaño del <em>trapping</em> dependerá de los materiales y las máquinas de impresión, uno de los grandes inconvenientes de esta técnica es que la medida no siempre es la misma, y recae en errores al momento de intentar copiar la acción.
 
 
 
@@ -499,10 +499,7 @@
             i.fas.fa-check
             | Ajustar los tonos más adecuados adaptando los colores que contiene la imagen a los más próximos que se puedan sacar.
 
-          li
-            i.fas.fa-check
-            | Ajustar los tonos más adecuados adaptando los colores que contiene la imagen a los más próximos que se puedan sacar.
-
+          
       .col-md-7.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img18.png', alt='Imagen decorativa')
 
@@ -550,7 +547,7 @@
             img(src='@/assets/curso/tema1/img22.svg' alt='AvatarTop')
           .tarjeta.bg-suave
             .p-4
-              p Los colores mixtos, deben tener los textos en el 100% del canal K.
+              p Los colores mixtos, deben tener los textos en el 100 % del canal K.
 
 
     .row.mb-4
@@ -568,7 +565,7 @@
             img(src='@/assets/curso/tema1/img24.svg' alt='AvatarTop')
           .tarjeta.bg-suave
             .p-4
-              p Los archivos impresos en grises, deben venir con perfiles de color en grises
+              p Los archivos impresos en grises, deben venir con perfiles de color en grises.
 
       .col-lg-4
         .tarjeta-avatar-b.mb-5
@@ -599,7 +596,7 @@
 
           li
             i.fas.fa-check
-            | Los archivos deben estar en formatos de edición, o PDF al 100% del tamaño.
+            | Los archivos deben estar en formatos de edición, o PDF al 100 % del tamaño.
 
           li
             i.fas.fa-check
@@ -616,7 +613,7 @@
 
       li
         i.fas.fa-check
-        | Al igual de importante que el sangrado y como se comentó anteriormente, es igual de importante tener en cuenta las cajas de seguridad.
+        | Igual de importante que el sangrado y como se comentó anteriormente, tener en cuenta las cajas de seguridad.
 
 
     .position-relative.mb-4
@@ -630,7 +627,7 @@
       h3.mb-0 Márgenes
       img(src='@/assets/curso/titulo-tercero.svg', alt='Imagen decorativa')
 
-    p.mb-4 Al igual de importante como el sangrado, las márgenes ayudan a dar el formato y diseño a las piezas, por eso su importancia al momento de pensar en procesos como encuadernación u otros procesos que necesitan otros espacios para no tener problemas de impresión.
+    p.mb-4 Igual de importante que el sangrado, las márgenes ayudan a dar el formato y diseño a las piezas, por eso su importancia al momento de pensar en procesos como encuadernación u otros procesos que necesitan otros espacios para no tener problemas de impresión.
     p Evitar en lo posible que ilustraciones, gráficos y diseños, abarquen hasta los márgenes de sangrado, para evitar posibles líneas blancas en los cortes.
 
 

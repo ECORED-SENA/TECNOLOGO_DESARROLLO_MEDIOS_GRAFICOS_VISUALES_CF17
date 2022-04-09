@@ -10,7 +10,7 @@
             img.px-lg-2.py-lg-4(src="@/assets/curso/act-didactica.svg", alt="Repaso")
       .col-12.col-md-8.col-lg-9.mb-lg-5(data-aos="fade-left")
         h4 Producción de elementos gráficos.
-        p.mb-4 <strong>Objetivo:</strong> Apropiar conceptos para la producción de elementos gráficos mediante un proceso de investigación y creación, para poder elaborar productos en un software especializado.
+        p.mb-4 <strong>Objetivo:</strong> apropiar conceptos para la producción de elementos gráficos mediante un proceso de investigación y creación, para poder elaborar productos en un software especializado.
         .tarjeta.bg-suave.p-2
           .row.justify-content-around.align-items-center
             .col-sm.mb-3.mb-sm-0
@@ -27,7 +27,7 @@
             img.px-lg-2.py-lg-4(src="@/assets/curso/act-didactica.svg", alt="Repaso")
       .col-12.col-md-8.col-lg-9.mb-lg-5(data-aos="fade-left")
         h4 Producción de elementos gráficos.
-        p.mb-4 <strong>Objetivo:</strong> Apropiar conceptos para la producción de elementos gráficos mediante un proceso de investigación y creación, para poder elaborar productos en un software especializado.
+        p.mb-4 <strong>Objetivo:</strong> apropiar conceptos para la producción de elementos gráficos mediante un proceso de investigación y creación, para poder elaborar productos en un software especializado.
         .tarjeta.bg-suave.p-2
           .row.justify-content-around.align-items-center
             .col-sm.mb-3.mb-sm-0

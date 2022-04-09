@@ -24,7 +24,7 @@
 
     .row.mb-md-4
       .col-md-7.mb-4(data-aos="fade-right")
-        p.mb-4 Sabiendo lo anterior, se debe empezar a construir una definición propia y entender la premedia como la fase o etapa del proyecto digital donde se definen las características que deben tener los elementos multimedia que hacen parte de cualquier producto digital.
+        p.mb-4 Sabiendo lo anterior, se debe empezar a construir una definición propia y entender la premedia como la fase o etapa del proyecto digital, donde se definen las características que deben tener los elementos multimedia que hacen parte de cualquier producto digital.
 
         p.mb-4 Estas características son muy similares a las que pueden tener los productos editoriales tangibles, pero enfocándose siempre en los productos digitales.
 
@@ -43,7 +43,7 @@
           .row
             .col-md-8.mb-4.mb-md-0
               h5 <i>Blogs</i> personales o corporativos
-              p Información en forma de artículos que ofrecen la capacidad de creación de contenido constante, donde la profundización de los temas, rodearán las características de los usuarios al igual que del contenido del producto y las necesidades del proyecto.
+              p Información en forma de artículos que ofrecen la capacidad de creación de contenido constante, donde la profundización de los temas, rodearán las características de los usuarios, al igual que del contenido del producto y las necesidades del proyecto.
 
             .col-md-4
               figure
@@ -140,9 +140,9 @@
           .col-12.col-md-10.col-lg-8
             img(src='@/assets/curso/tema2/img42.svg', alt='Imagen ejemplo de márgenes')
 
-    p.mb-4 La palabra pliego, define la forma en como se va tratar el sustrato, estos pliegues se pueden hacer varias veces, para formar un cuadernillo, una vez está impreso, sigue el proceso de encuadernación cosida o fresada, si hablamos de libros o revistas de gran cantidad de páginas.
+    p.mb-4 La palabra pliego, define la forma en como se va a tratar el sustrato, estos pliegues se pueden hacer varias veces, para formar un cuadernillo, una vez está impreso, sigue el proceso de encuadernación cosida o fresada, si hablamos de libros o revistas de gran cantidad de páginas.
 
-    p Se puede observar que la disposición de las páginas en ambos pliegos corresponde con su contraparte, evitando de este modo deslizamientos al momento de juntar y hacer los procesos de encuadernación; se entiende el deslizamiento o el desmentido a la forma como las hojas se mueven o desplazan, hacia afuera por la suma de sus pliegues, entre más páginas tiene el pliego, es decir entre más pliegues deba tener el sustrato más deslizamiento existirá.
+    p Se puede observar que la disposición de las páginas en ambos pliegos corresponde con su contraparte, evitando de este modo deslizamientos al momento de juntar y hacer los procesos de encuadernación; se entiende el deslizamiento o el desmentido a la forma como las hojas se mueven o desplazan, hacia afuera por la suma de sus pliegues, entre más páginas tiene el pliego, es decir entre más pliegues deba tener el sustrato, más deslizamiento existirá.
 
     .position-relative.mb-4
       .bg-fullwidth
@@ -203,7 +203,7 @@
 
         .row
           .col-xl-8
-            p El perfil de color debe ser el indicado para impresión (CMYK) además que los negros estén al 100%, tener en cuenta los grises y las transparencias ya que este formato de impresión combina las tintas y se deben tener las precauciones necesarias.
+            p El perfil de color debe ser el indicado para impresión (CMYK) además que los negros estén al 100 %, tener en cuenta los grises y las transparencias, ya que este formato de impresión combina las tintas y se deben tener las precauciones necesarias.
           .col-xl-4.mb-4
             figure
               img(src='@/assets/curso/tema2/img47.png')
@@ -213,7 +213,7 @@
 
         .row
           .col-xl-8
-            p Todas las imágenes deben venir en el mismo formato o perfil de color y su resolución no debe ser inferior a 300ppp, los archivos finales no deben venir con efectos sobre las imágenes, sino deben ser imágenes editadas, para así evitar inconvenientes con los impresores; al igual que los textos y demás elementos, si el archivo se empaqueta, todos los links de las imágenes vendrán en un mismo archivo.
+            p Todas las imágenes deben venir en el mismo formato o perfil de color y su resolución no debe ser inferior a 300 ppp, los archivos finales no deben venir con efectos sobre las imágenes, sino que deben ser imágenes editadas, para así evitar inconvenientes con los impresores; al igual que los textos y demás elementos, si el archivo se empaqueta, todos los links de las imágenes vendrán en un mismo archivo.
           .col-xl-4.mb-4
             figure
               img(src='@/assets/curso/tema2/img48.png')
@@ -261,7 +261,7 @@
     .row.justify-content-center.mt-5.mb-4(data-aos="fade-down")
       .col-md-10
         .cajon.color-acento-botones.p-4
-          p.mb-0 Determinar cuál de ambos en el más seguro o el más organizado para trabajar resulta difícil de medir, ya que muchas células de trabajo tienen formas de organización y resulta mejor que cada uno reciba y encuentre la mejor forma de trabajar, dependiendo de su forma de organización y las necesidades de cada una.
+          p.mb-0 Determinar cuál de ambos es el más seguro o el más organizado para trabajar resulta difícil de medir, ya que muchas células de trabajo tienen formas de organización y resulta mejor que cada uno reciba y encuentre la mejor forma de trabajar, dependiendo de su forma de organización y las necesidades de cada una.
 
 
 
@@ -273,7 +273,7 @@
 
     .row
       .col-md-7.mb-4(data-aos="fade-right")
-        p.mb-4 El empaquetado de archivos, es una función de muchos programas para copiar un conjunto de archivos completo, manteniendo vínculos, archivos de referencia y todo tipo de archivos de diseño que hagan parte de un mismo gran archivo, independiente su ubicación enlazará imágenes en mapa de bits y vectoriales, tipografías, etc., evitando que al momento de compartir el archivo o enviarlo a impresión, no se encuentren algunos elementos y sea un verdadero dolor de cabeza.
+        p.mb-4 El empaquetado de archivos, es una función de muchos programas para copiar un conjunto de archivos completo, manteniendo vínculos, archivos de referencia y todo tipo de archivos de diseño que hagan parte de un mismo gran archivo, independiente de su ubicación, enlazará imágenes en mapa de bits y vectoriales, tipografías, etc., evitando que al momento de compartir el archivo o enviarlo a impresión, no se encuentren algunos elementos y sea un verdadero dolor de cabeza.
 
         p.mb-4
           strong Entre algunas de sus características están:
@@ -297,7 +297,7 @@
 
           li
             i.fas.fa-check
-            | Crea un documento .txt donde recopila toda la información y detalla cantidades e ubicaciones.
+            | Crea un documento .txt donde recopila toda la información y detalla cantidades y ubicaciones.
 
       .col-md-5.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/img51.png', alt='Imagen decorativa')
@@ -305,9 +305,9 @@
 
 
       .cajon.color-secundario.p-4
-        p.mb-0 Otra opción viable, si no se requiere compartir todo el trabajo para no caer en plagios o problemas de incompatibilidad o por el contrario, encontrar imprentas sin las actualizaciones necesarias, haciendo poco probable encontrar el programa necesario, encontrando otras opciones más sencillas sin la necesidad de perder calidad ni seguridad al momento de imprimir o compartir archivos, es el PDF, este tipo de formato ha tomado mucha fuerza dadas sus características de rendimiento frente a otros tipo de archivos de texto o archivos de imagen, pudiendo incluir todos los elementos necesarios para la impresión, ahorrando imprevistos y transfiriendo cantidades innecesarias de información.
+        p.mb-0 Otra opción viable, si no se requiere compartir todo el trabajo para no caer en plagios o problemas de incompatibilidad o por el contrario, encontrar imprentas sin las actualizaciones necesarias, haciendo poco probable encontrar el programa necesario, encontrando otras opciones más sencillas sin la necesidad de perder calidad ni seguridad al momento de imprimir o compartir archivos, es el PDF, este tipo de formato ha tomado mucha fuerza dadas sus características de rendimiento frente a otros tipos de archivos de texto o archivos de imagen, pudiendo incluir todos los elementos necesarios para la impresión, ahorrando imprevistos y transfiriendo cantidades innecesarias de información.
 
-      p.my-4 Con el propósito de consolidar la información del componente, a continuación, se consolidan dos videos de orientación sobre el proceso de imprimir y compartir acorde a los lineamientos vistos:
+      p.my-4 Con el propósito de consolidar la información del componente, a continuación, se realizan dos videos de orientación sobre el proceso de imprimir y compartir acorde a los lineamientos vistos:
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-md-10

@@ -613,7 +613,7 @@
 
       li
         i.fas.fa-check
-        | Igual de importante que el sangrado y como se comentó anteriormente, tener en cuenta las cajas de seguridad.
+        | Igual de importante que el sangrado y como se comentó anteriormente, es tener en cuenta las cajas de seguridad.
 
 
     .position-relative.mb-4

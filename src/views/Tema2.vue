@@ -312,12 +312,12 @@
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-md-10
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/Isll974OhYA" title="Imprimir y compartir parte 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/c9fqZNvIVcU" title="Imprimir y compartir parte 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-md-10
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/SpqVQv15vdc" title="Imprimir y compartir parte 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/5smUDrS2Vw0" title="Imprimir y compartir parte 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 

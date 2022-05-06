@@ -16,7 +16,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0.px-lg-2 Falso - Verdadero.
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/AD01-FalsoVerdadero/story.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/AD01-FalsoVerdadero/index.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
     
@@ -33,7 +33,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0.px-lg-2 Selección múltiple con única respuesta
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/AD02-SeleccionMultiple/story.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/AD02-SeleccionMultiple/index.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
 
